@@ -383,6 +383,8 @@ html::-webkit-scrollbar-thumb {
   font-size: 20px;
   margin: 0;
   line-height: 2; letter-spacing: 0.6px;
+    background-image: url(../Image/kitswnyt2.png);
+
 }
 .paralex-head {
   width: 100%;
